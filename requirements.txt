@@ -1,0 +1,73 @@
+aiofiles==0.6.0
+appdirs==1.4.4
+bcrypt==3.2.0
+blinker==1.4
+cairocffi==1.2.0
+CairoSVG==2.5.2
+certifi==2020.12.5
+cffi==1.14.5
+chardet==4.0.0
+click==7.1.2
+cssselect2==0.4.1
+defusedxml==0.7.1
+distlib==0.3.1
+env==0.1.0
+fastapi==0.63.0
+filelock==3.0.12
+Flask==1.1.2
+Flask-Bcrypt==0.7.1
+Flask-Mail==0.9.1
+Flask-MySQL==1.5.2
+Flask-PyMongo==2.3.0
+Flask-WeasyPrint==0.6
+gunicorn==20.1.0
+h11==0.12.0
+html5lib==1.1
+idna==2.10
+itsdangerous==1.1.0
+Jinja2==2.11.3
+MarkupSafe==1.1.1
+mysql==0.0.3
+mysql-connector-python-rf==2.2.2
+mysqlclient==2.0.3
+pdfkit==0.6.1
+Pillow==8.2.0
+pipenv==2020.11.15
+playsound==1.2.2
+pycparser==2.20
+pydantic==1.8.1
+pygame==2.0.1
+pymongo==3.11.3
+PyMySQL==1.0.2
+Pyphen==0.10.0
+python-dotenv==0.18.0
+python-env==1.0.0
+requests==2.25.1
+six==1.15.0
+starlette==0.13.6
+tinycss2==1.1.0
+typing-extensions==3.7.4.3
+urllib3==1.26.4
+uvicorn==0.13.4
+virtualenv==20.4.4
+virtualenv-clone==0.5.4
+WeasyPrint==52.5
+webencodings==0.5.1
+Werkzeug==1.0.1
+wkhtmltopdf==0.2
+
+
+
+
+
+# blinker==1.4
+# click==7.1.2
+# Flask==1.1.2
+# Flask-Mail==0.9.1
+# gunicorn==20.1.0
+# itsdangerous==1.1.0
+# Jinja2==2.11.3
+# MarkupSafe==1.1.1
+# python-dotenv==0.15.0
+# Werkzeug==1.0.1
+
